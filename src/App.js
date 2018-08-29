@@ -11,8 +11,8 @@ class App extends Component {
     super();
     this.state ={
       users:[
-      {id:1,name: "Fernando",email: "blumxp@gmail.com"},
-      {id:2,name: "Juan Fr", email: "blumxp2@gmail.com"}
+      {id:1,name: "Fernando",email: "blumxp@gmail.com",age: 18},
+      {id:2,name: "Juan Fr", email: "blumxp2@gmail.com",age: 31}
       ]
     };
   }
